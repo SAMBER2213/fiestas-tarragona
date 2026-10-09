@@ -93,4 +93,4 @@ La publicación se hizo con **GitHub Pages**, desde la rama `main` y la carpeta 
 
 ## Autor
 
-Tu nombre completo – Ingeniería de Sistemas – 2026
+Santiago Bermúdez Sabogal – Tecnologia en desarrollo de software – 2026
