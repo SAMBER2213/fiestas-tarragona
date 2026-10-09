@@ -4,7 +4,9 @@ Aplicación web para calcular el cobro de las fiestas realizadas por la compañ�
 
 Producto del **Taller # 4 – Elaboración de informe escrito del producto informático** (Ingeniería de Sistemas).
 
-🔗 **Demo en línea:** `https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`
+🔗 **Demo en línea:** [https://samber2213.github.io/fiestas-tarragona/](https://samber2213.github.io/fiestas-tarragona/)
+
+📁 **Repositorio:** [https://github.com/SAMBER2213/fiestas-tarragona](https://github.com/SAMBER2213/fiestas-tarragona)
 
 ## ¿Qué hace?
 
@@ -68,14 +70,11 @@ No hay base de datos. Las fiestas se guardan en el **`localStorage` de cada nave
 
 ## Cómo ejecutarla
 
+**En línea:** abre el enlace de la demo, no requiere instalación.
+
 **Localmente:** descarga el repositorio y abre `index.html` en el navegador.
 
-**Publicarla con GitHub Pages:**
-
-1. Sube `index.html` y `README.md` a un repositorio de GitHub.
-2. Ve a **Settings → Pages**.
-3. En *Build and deployment*, elige **Deploy from a branch**, selecciona la rama `main` y la carpeta `/ (root)`.
-4. Guarda y espera uno o dos minutos. El enlace aparecerá en esa misma pantalla.
+La publicación se hizo con **GitHub Pages**, desde la rama `main` y la carpeta `/ (root)` (Settings → Pages).
 
 ## Limitaciones
 
@@ -94,4 +93,4 @@ No hay base de datos. Las fiestas se guardan en el **`localStorage` de cada nave
 
 ## Autor
 
-Tu nombre – Ingeniería de Sistemas – 2026
+Tu nombre completo – Ingeniería de Sistemas – 2026
